@@ -46,6 +46,8 @@ class ChatBubble extends StatelessWidget {
     );
   }
 
+  
+
   // UNSEND MESSAGE FEATURE
   void _unsendMessage(BuildContext context, String messageID, String receiverID) {
     showDialog(
@@ -77,6 +79,8 @@ class ChatBubble extends StatelessWidget {
       }
     );
   }
+
+
 
   // show options for other users' messages (removed block functionality)
   void _showOtherUserOptions(BuildContext context, String messageID, String userID){
