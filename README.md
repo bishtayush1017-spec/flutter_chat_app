@@ -10,7 +10,3 @@ A sleek and simple **real-time chat application** built with **Flutter**. Stay c
 - Clean and responsive UI
 - Emoji support 😄
 - Cross-platform: Android & iOS
-
-
-
-
