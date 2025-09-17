@@ -14,5 +14,7 @@ A sleek and simple **real-time chat application** built with **Flutter**. Stay c
 ---
 
 ## Screenshots 📸
-[![Login Screen](screenshots/Screenshot1.jpg)](screenshots/Screenshot1.jpg)
-[![Chat Screen](screenshots/Screenshot2.jpg)](screenshots/Screenshot2.jpg)
+[![Screenshot 1](https://via.placeholder.com/200x400.png?text=Screenshot+1)](screenshots/screenshot1.jpg)
+[![Screenshot 2](https://via.placeholder.com/200x400.png?text=Screenshot+2)](screenshots/screenshot2.jpg)
+[![Screenshot 3](https://via.placeholder.com/200x400.png?text=Screenshot+3)](screenshots/screenshot3.jpg)
+[![Screenshot 4](https://via.placeholder.com/200x400.png?text=Screenshot+4)](screenshots/screenshot4.jpg)
